@@ -1,5 +1,5 @@
-#Muhamad Dinar Salihin
-#1810131110007
+## Muhamad Dinar Salihin
+## 1810131110007
 
 1. Lakukan eksplorasi mengenai Administrasi Sistem Linux. Tuliskan hasil penelusuran anda
 
@@ -50,8 +50,7 @@ cukup untuk ukuran suatu root.
 - Gunakan partisi ini sebagai ruang swap > enter
 - Langsung ke pilihan selesai menyusun partisi, tekan enter
 - Klik enter kembali pada ruang kosong
-- sama kaya yang di atas yaitu lakukan langkah-langkah nomor 29 dan 30, pilih logical 
->akhir> enter pilih gunakan sebagai FAT32
+- sama kaya yang di atas yaitu lakukan langkah-langkah nomor 29 dan 30, pilih logical >akhir> enter pilih gunakan sebagai FAT32
 - Selanjutnya anda pilih titik kait dan klik enter
 - Pilih jangan kaitkan saja
 - Selanjutnya arahkan ke pilihan paling bawah yaitu selesai menyusun partisi > enter
@@ -80,4 +79,4 @@ pada direktori tertentu.
 - cd : berfungsi untuk masuk ke direktori yang diinginkan
 - clear : berfungsi untuk membersihkan ketika perintah- perintah linux sudah 
 memenuhi layer
-- logout : keluar dari 
+- logout : Keluar
